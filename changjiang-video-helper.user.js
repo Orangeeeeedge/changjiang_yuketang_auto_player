@@ -1,5 +1,6 @@
 // ==UserScript==
 // @name         长江雨课堂连续播放助手
+// @author       orange/chatgpt
 // @namespace    local.changjiang.video-helper
 // @version      1.1.0
 // @description  失焦保护、最高 16 倍速、结束后自动下一节；支持记忆倍速和指定下一节按钮。
