@@ -24,8 +24,8 @@
 
 ## （必看）针对《信息检索与科技写作》的内容
 
-1. 在课程目录中找到真实的“下一节 / 下一个视频”按钮，网页版在完成度的旁边
-<img width="221" height="86" alt="image" src="https://github.com/user-attachments/assets/d17a7d53-1659-4f44-b79b-c054d590ad89" />。<br>
+1. 在课程目录中找到真实的“下一节 / 下一个视频”按钮，网页版在完成度的旁边。<br>
+<img width="221" height="86" alt="image" src="https://github.com/user-attachments/assets/d17a7d53-1659-4f44-b79b-c054d590ad89" /><br>
 2. 点击助手里的“指定下一节按钮”。
 3. 点击页面上的那个按钮。此次点击只记住位置，不执行跳转；按 Esc 可以取消指定。
 4. 视频结束后，脚本会优先点击指定的按钮。如果当前视频已经结束，会开始两秒倒计时。
