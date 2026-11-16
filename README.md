@@ -1,0 +1,2 @@
+# changjiang_yuketang_auto_player
+主要针对北京理工大学《信息检索与科技写作》课程，使用本脚本可以全自动播放视频，并强制调整倍速，建议浏览器为edge和Chrome
